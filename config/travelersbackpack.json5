@@ -219,7 +219,7 @@
         "enableVillagerTrade": true
     },
     "backpackAbilities": {
-        "enableBackpackAbilities": false,
+        "enableBackpackAbilities": true,
         "forceAbilityEnabled": false,
         // List of backpacks that are allowed to have an ability. DO NOT ADD anything to this list, because the game will crash, remove entries if backpack should not have ability
         "allowedAbilities": [
